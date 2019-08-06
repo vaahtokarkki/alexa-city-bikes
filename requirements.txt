@@ -1,0 +1,4 @@
+geographiclib==1.49
+geopy==1.20.0
+graphqlclient==0.2.4
+six==1.12.0
