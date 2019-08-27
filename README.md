@@ -22,7 +22,7 @@ Get your own skill handler
 $ git clone ...
 $ python -m venv env
 $ source env/bin/activate
-$ pip pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 Set enviroment variable `ALEXA_APPLICATION_ID` to your app id from Alexa developer console.
