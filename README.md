@@ -19,7 +19,8 @@ Skill needs access to device address for finding closest bike station. Allow per
 Get your own skill handler 
 
 ```bash
-$ git clone ...
+$ git clone https://github.com/vaahtokarkki/alexa-city-bikes
+$ cd alexa-city-bikes
 $ python -m venv env
 $ source env/bin/activate
 $ pip install -r requirements.txt
